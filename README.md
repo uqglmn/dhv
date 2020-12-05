@@ -1,6 +1,6 @@
 ### Data Handling and Visualisation
 
-Launch a live notebook server with these notebooks using [binder](https://mybinder.readthedocs.io/en/latest/) [![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/vidasr/dhv/main?filepath=index.ipynb)
+Launch a live notebook server using [binder](https://mybinder.readthedocs.io/en/latest/) [![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/vidasr/dhv/main?filepath=index.ipynb)
 
 ### References
 
