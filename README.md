@@ -1,7 +1,28 @@
-# dhv
-
 # Data Handling and Visualisation
 
+## NumPy
+
+- Lecture 1
+- Lecture 2
+- Lecture 3
+
+## Pandas
+
+- Lecture 4
+- Lecture 5
+- Lecture 6
+
+## Matplotlib
+
+TBC
+
+## Bokeh
+
+TBC
+
+## ggplot
+
+TBC
 
 
 
