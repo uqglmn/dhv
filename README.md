@@ -1,5 +1,7 @@
 # Data Handling and Visualisation
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/vidasr/dhv/main?urlpath=lab) (Jupyter Lab)
+
 ### NumPy
 
 - Lecture 1
