@@ -1,5 +1,6 @@
 ### Data Handling and Visualisation
 
+[Preview](index.ipynb) notebooks.
 Launch a live notebook server via [binder](https://mybinder.readthedocs.io/en/latest/) 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/uqglmn/dhv/main?filepath=index.ipynb)
 
