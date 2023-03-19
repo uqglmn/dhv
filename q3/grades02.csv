@@ -1,11 +1,11 @@
-,name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
-10,Axel , Lara,A,2393808,62,98,45,52,89,40,84,85,78,86,64,46
-11,Lillian , Williamson,A,2372611,63,66,65,91,88,41,89,57,85,79,75,50
-12,Jude , Luna,A,2338737,49,96,60,90,98,47,60,68,84,51,82,51
-13,Misael , Fitzgerald,A,2391339,81,60,71,73,63,65,89,47,96,46,40,90
-14,Raquel , Bender,A,2375628,73,83,94,69,68,58,48,43,73,72,44,74
-15,Makenna , Craig,A,2354400,49,69,83,49,40,96,73,62,62,85,61,87
-16,Gauge , Fritz,A,2326218,44,86,53,47,73,97,93,90,93,49,82,50
-17,Rory , Thomas,A,2335223,58,77,44,81,70,62,48,62,51,81,44,79
-18,Cruz , Key,A,2381448,56,90,76,51,56,93,92,47,90,66,94,60
-19,Matthew , Walton,A,2346470,84,48,93,52,82,70,50,45,54,48,61,81
+name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
+Axel , Lara,A,2393808,62,98,45,52,89,40,84,85,78,86,64,46
+Lillian , Williamson,A,2372611,63,66,65,91,88,41,89,57,85,79,75,50
+Jude , Luna,A,2338737,49,96,60,90,98,47,60,68,84,51,82,51
+Misael , Fitzgerald,A,2391339,81,60,71,73,63,65,89,47,96,46,40,90
+Raquel , Bender,A,2375628,73,83,94,69,68,58,48,43,73,72,44,74
+Makenna , Craig,A,2354400,49,69,83,49,40,96,73,62,62,85,61,87
+Gauge , Fritz,A,2326218,44,86,53,47,73,97,93,90,93,49,82,50
+Rory , Thomas,A,2335223,58,77,44,81,70,62,48,62,51,81,44,79
+Cruz , Key,A,2381448,56,90,76,51,56,93,92,47,90,66,94,60
+Matthew , Walton,A,2346470,84,48,93,52,82,70,50,45,54,48,61,81
