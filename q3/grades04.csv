@@ -1,11 +1,11 @@
 name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
-Louis , Ware,B,2356084,64,52,42,49,44,50,60,82,62,41,76,63
-Ayla , Whitehead,B,2312956,78,40,72,52,76,46,42,68,82,88,64,50
-Neil , French,B,2359256,91,52,42,67,93,52,83,87,62,92,50,69
-Jefferson , Walton,B,2365896,67,75,80,90,82,77,95,66,79,59,62,45
-Skye , Galloway,B,2330211,47,96,95,86,44,69,86,53,70,82,93,48
-Leon , Preston,B,2366530,64,94,44,68,44,67,72,96,70,91,94,41
-Lilianna , Bryant,B,2378758,51,88,51,94,50,53,68,96,93,68,57,60
-Anabella , Guerra,B,2348661,46,74,40,45,68,40,86,62,81,74,97,45
-Elena , Chavez,B,2335520,77,60,82,89,85,53,61,81,59,45,51,61
-Nicholas , Rice,B,2333598,44,65,41,86,56,56,83,89,61,90,81,88
+Louis,Ware,B,2373424,49,87,85,62,97,65,66,61,54,44,99,52
+Ayla,Whitehead,B,2348449,51,85,47,52,57,51,77,50,57,41,52,91
+Neil,French,B,2377904,89,46,50,50,47,47,90,88,66,77,61,54
+Jefferson,Walton,B,2376102,89,55,40,61,71,65,94,65,62,79,92,75
+Skye,Galloway,B,2379663,78,74,99,67,59,84,71,63,54,78,61,79
+Leon,Preston,B,2393241,86,87,53,94,72,70,57,66,97,71,68,70
+Lilianna,Bryant,B,2351033,80,72,85,69,59,95,71,66,77,55,41,41
+Anabella,Guerra,B,2346919,47,80,76,91,55,97,92,94,92,58,83,88
+Elena,Chavez,B,2368047,49,81,48,90,92,60,68,90,77,97,53,47
+Nicholas,Rice,B,2391769,56,53,92,90,74,42,81,53,57,55,78,77
