@@ -1,11 +1,11 @@
-name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
-Santos,Montoya,B,2352491,86,74,99,67,49,41,53,78,58,98,48,97
-Carleigh,Mcguire,B,2313204,55,46,61,64,70,80,41,88,94,43,94,86
-Joanna,Gross,B,2310046,87,55,81,47,97,88,95,53,40,46,60,45
-Saige,Clayton,B,2341174,43,97,53,64,74,51,69,52,78,59,77,80
-Griffin,Wall,B,2394600,95,84,40,62,96,48,80,67,85,80,96,92
-Trent,Kelley,B,2347771,67,57,62,95,72,63,82,47,60,43,45,47
-Jalen,Yates,B,2342904,44,50,42,92,48,73,89,89,53,54,61,93
-Aniyah,Bradford,B,2346625,56,63,68,58,93,66,53,58,47,69,70,78
-Phillip,Mckinney,B,2354269,85,62,97,83,70,80,81,71,58,80,79,71
-Adolfo,Rose,B,2392337,84,75,66,75,43,86,78,92,59,43,48,50
+Name,Surname,Group,ID,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
+Santos,Montoya,B,2376244,72,73,54,96,41,79,79,43,47,89,43,57
+Carleigh,Mcguire,B,2365683,99,93,57,75,48,96,75,46,45,46,86,91
+Joanna,Gross,B,2386984,43,82,94,98,74,63,67,84,52,68,57,61
+Saige,Clayton,B,2341962,74,57,62,74,41,47,64,85,77,57,75,93
+Griffin,Wall,B,2380768,94,81,58,73,43,61,46,88,62,66,88,76
+Trent,Kelley,B,2347078,86,57,50,96,44,50,54,45,78,43,72,42
+Jalen,Yates,B,2319110,97,70,40,70,81,98,94,46,94,92,55,76
+Aniyah,Bradford,B,2310132,63,57,59,70,61,65,46,83,70,44,73,96
+Phillip,Mckinney,B,2339692,60,63,90,47,81,72,59,95,49,54,49,58
+Adolfo,Rose,B,2323106,71,63,55,78,79,44,62,44,61,72,92,93

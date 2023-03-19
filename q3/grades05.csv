@@ -1,11 +1,11 @@
-name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
-Lainey,Sampson,C,2360562,67,68,76,42,83,94,85,88,98,50,58,99
-Laila,Poole,C,2389717,55,60,42,94,89,49,88,42,71,62,60,40
-Aidan,Williams,C,2331958,45,97,71,69,62,99,56,87,49,45,57,44
-Yadira,Harvey,C,2384483,66,64,69,61,95,58,70,54,89,57,62,45
-Teagan,Spears,C,2310170,60,47,61,57,68,70,47,49,77,50,69,79
-Bria,Erickson,C,2385284,63,64,71,63,86,64,79,59,44,97,47,78
-Cassie,Duran,C,2391269,66,50,83,52,81,59,59,49,52,56,55,90
-Esteban,Howard,C,2382398,49,89,55,80,65,56,99,96,85,43,51,58
-Jaden,Jacobson,C,2385076,93,54,47,55,67,96,87,86,64,71,86,51
-Maria,Prince,C,2361094,96,73,79,68,97,72,79,63,92,88,72,75
+Name,Surname,Group,ID,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
+Lainey,Sampson,C,2343517,73,48,64,77,65,71,99,91,41,42,96,49
+Laila,Poole,C,2375121,58,74,92,45,79,89,57,70,63,93,71,76
+Aidan,Williams,C,2321415,93,46,91,42,43,75,64,57,69,80,45,74
+Yadira,Harvey,C,2388268,93,49,73,81,89,42,55,60,72,61,51,61
+Teagan,Spears,C,2335026,72,75,57,92,42,65,68,62,47,66,68,53
+Bria,Erickson,C,2332649,93,44,93,99,90,70,60,60,59,85,41,82
+Cassie,Duran,C,2350149,92,45,46,78,95,45,84,87,73,91,98,86
+Esteban,Howard,C,2335850,75,76,86,95,94,41,57,92,57,88,59,56
+Jaden,Jacobson,C,2340437,67,69,69,81,54,59,51,56,66,65,41,67
+Maria,Prince,C,2371775,73,70,76,42,94,80,56,63,73,98,82,98

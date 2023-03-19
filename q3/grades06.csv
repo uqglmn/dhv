@@ -1,11 +1,11 @@
-name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
-Finley,Molina,C,2319426,57,50,43,64,85,41,77,72,76,64,99,90
-Summer,Morris,C,2346105,87,82,90,95,65,75,49,72,47,81,85,47
-Anne,Fuentes,C,2385055,64,96,48,73,97,49,43,78,67,75,75,49
-Cornelius,Ruiz,C,2360652,97,90,62,41,82,74,53,73,47,46,94,66
-Ava,Shepherd,C,2373728,96,40,59,70,82,45,54,44,67,60,98,67
-Zackery,Sampson,C,2385084,85,52,50,76,46,51,91,97,98,90,82,73
-Ross,Tanner,C,2352773,85,76,96,47,96,83,58,73,72,76,85,54
-Oscar,Long,C,2333955,95,92,44,40,96,70,96,52,42,95,92,40
-Jadon,Case,C,2397012,45,75,89,66,65,46,44,41,82,93,67,55
-Chandler,Spence,C,2323116,92,66,62,82,63,73,41,65,90,98,65,49
+Name,Surname,Group,ID,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
+Finley,Molina,C,2343894,73,79,53,67,68,50,46,52,68,98,70,71
+Summer,Morris,C,2353990,77,43,65,91,95,95,94,51,95,81,79,50
+Anne,Fuentes,C,2332472,91,49,49,76,75,64,68,96,66,42,74,40
+Cornelius,Ruiz,C,2344460,49,65,62,81,65,92,44,82,68,52,99,86
+Ava,Shepherd,C,2385052,70,50,53,52,78,43,40,86,80,45,87,44
+Zackery,Sampson,C,2358499,47,81,46,73,73,47,45,62,70,71,77,93
+Ross,Tanner,C,2318426,96,82,73,57,49,54,68,75,81,41,90,80
+Oscar,Long,C,2328789,74,40,91,99,86,42,89,86,96,43,92,42
+Jadon,Case,C,2372034,69,61,93,75,45,92,65,69,47,68,65,81
+Chandler,Spence,C,2370273,41,97,88,46,80,56,51,72,81,81,42,41

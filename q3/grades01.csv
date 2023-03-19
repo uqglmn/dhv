@@ -1,11 +1,11 @@
-name,surname,group,id,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
-Jaida,Gay,A,2389224,45,44,41,70,43,65,91,92,85,80,79,68
-Mariela,Giles,A,2351295,77,97,82,49,54,67,80,72,94,62,48,78
-Amiyah,Leonard,A,2391222,72,97,81,91,97,98,60,53,41,62,73,89
-Yasmine,Noble,A,2392539,42,77,84,99,40,80,55,47,81,82,62,97
-Delaney,Porter,A,2352761,72,92,49,85,40,95,59,82,97,80,90,95
-Chase,Armstrong,A,2343924,72,68,60,80,98,40,82,73,61,95,84,65
-Gavin,Holder,A,2346331,58,77,79,50,91,54,85,89,97,97,88,89
-Roger,Sweeney,A,2388505,79,56,43,88,65,91,49,81,56,55,78,98
-Barrett,Jarvis,A,2328783,88,40,82,91,83,64,90,60,85,99,80,58
-Natalya,Bond,A,2397555,74,60,57,95,76,49,44,80,82,89,67,47
+Name,Surname,Group,ID,Linear Algebra,Statistics,Programming,Calculus,Algebra,Game Theory,Linear Modelling,Information Theory,Big Data,Block Chains,Computer Vision,Neural Networks
+Jaida,Gay,A,2373189,43,43,45,56,93,98,92,83,55,77,96,95
+Mariela,Giles,A,2336360,48,47,71,53,55,71,50,60,86,46,92,99
+Amiyah,Leonard,A,2319861,88,53,57,65,91,48,93,53,77,75,46,80
+Yasmine,Noble,A,2397197,95,59,70,77,60,63,85,41,87,68,76,53
+Delaney,Porter,A,2330074,63,49,87,84,56,54,97,71,60,67,85,95
+Chase,Armstrong,A,2337339,86,85,57,54,75,85,63,76,93,96,81,47
+Gavin,Holder,A,2396189,58,73,73,83,69,67,82,75,99,76,50,50
+Roger,Sweeney,A,2399660,96,57,65,74,81,61,49,56,69,86,47,42
+Barrett,Jarvis,A,2372640,93,69,78,66,91,74,53,90,88,43,93,83
+Natalya,Bond,A,2337086,76,71,52,68,87,64,78,67,53,62,43,48
