@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/grades01.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/grades02.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/grades03.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/grades04.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/grades05.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/grades06.csv
