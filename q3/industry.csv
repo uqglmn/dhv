@@ -1,61 +1,61 @@
-Name,Surname,ID,Industry
-Jaida,Gay,2373189,False
-Mariela,Giles,2336360,True
-Amiyah,Leonard,2319861,False
-Yasmine,Noble,2397197,False
-Delaney,Porter,2330074,False
-Chase,Armstrong,2337339,False
-Gavin,Holder,2396189,True
-Roger,Sweeney,2399660,False
-Barrett,Jarvis,2372640,False
-Natalya,Bond,2337086,False
-Axel,Lara,2393191,True
-Lillian,Williamson,2343297,True
-Jude,Luna,2350943,False
-Misael,Fitzgerald,2390085,False
-Raquel,Bender,2343082,False
-Makenna,Craig,2367036,False
-Gauge,Fritz,2361066,True
-Rory,Thomas,2354627,False
-Cruz,Key,2381516,True
-Matthew,Walton,2372914,True
-Santos,Montoya,2376244,True
-Carleigh,Mcguire,2365683,True
-Joanna,Gross,2386984,False
-Saige,Clayton,2341962,True
-Griffin,Wall,2380768,False
-Trent,Kelley,2347078,True
-Jalen,Yates,2319110,True
-Aniyah,Bradford,2310132,True
-Phillip,Mckinney,2339692,True
-Adolfo,Rose,2323106,False
-Louis,Ware,2335540,True
-Ayla,Whitehead,2316827,True
-Neil,French,2351580,False
-Jefferson,Walton,2388920,False
-Skye,Galloway,2313606,False
-Leon,Preston,2391100,False
-Lilianna,Bryant,2341069,False
-Anabella,Guerra,2392256,False
-Elena,Chavez,2313839,True
-Nicholas,Rice,2322666,False
-Lainey,Sampson,2343517,True
-Laila,Poole,2375121,False
-Aidan,Williams,2321415,True
-Yadira,Harvey,2388268,True
-Teagan,Spears,2335026,True
-Bria,Erickson,2332649,False
-Cassie,Duran,2350149,False
-Esteban,Howard,2335850,True
-Jaden,Jacobson,2340437,False
-Maria,Prince,2371775,True
-Finley,Molina,2343894,False
-Summer,Morris,2353990,True
-Anne,Fuentes,2332472,True
-Cornelius,Ruiz,2344460,True
-Ava,Shepherd,2385052,False
-Zackery,Sampson,2358499,True
-Ross,Tanner,2318426,True
-Oscar,Long,2328789,True
-Jadon,Case,2372034,False
-Chandler,Spence,2370273,True
+Name,Surname,ID,Industry,Company
+Jaida,Gay,2350945,True,Speedlight Solutions
+Mariela,Giles,2368237,True,Nova Web Works
+Amiyah,Leonard,2338298,False,Avatar Tech
+Yasmine,Noble,2367074,False,Files And Firewalls
+Delaney,Porter,2358172,True,Thrive Technology
+Chase,Armstrong,2378676,False,Alphapress App Development
+Gavin,Holder,2319807,False,Information Technology House
+Roger,Sweeney,2343943,True,Hashtag Web Consultants
+Barrett,Jarvis,2315146,False,Modern Technologies
+Natalya,Bond,2393257,False,Radioactive Web Works
+Axel,Lara,2330791,False,Quest Web Apps
+Lillian,Williamson,2383724,True,Revelation It Company
+Jude,Luna,2351160,False,Fast & Amazing
+Misael,Fitzgerald,2315197,True,Digital Genius
+Raquel,Bender,2362218,False,Technokings
+Makenna,Craig,2313820,False,Top Ten Tech
+Gauge,Fritz,2383764,False,Expressway Ecommerce Ltd
+Rory,Thomas,2372378,False,Bytethis App Co
+Cruz,Key,2356171,False,Aurora Apps
+Matthew,Walton,2363333,True,Neptune & Saturn Tech
+Santos,Montoya,2345576,True,Vintage Solutions
+Carleigh,Mcguire,2316757,True,Autopilot Software
+Joanna,Gross,2351133,False,Exodus Development Co
+Saige,Clayton,2310650,False,All Covered Inc
+Griffin,Wall,2370019,True,Parallax It Center
+Trent,Kelley,2399533,True,Alien 51 Apps
+Jalen,Yates,2371869,True,Blue Light Software
+Aniyah,Bradford,2358521,True,Interstellar Software
+Phillip,Mckinney,2382553,True,Tri Tech Apps
+Adolfo,Rose,2321703,False,Omega Tech House
+Louis,Ware,2375046,True,World Wide Apps
+Ayla,Whitehead,2398400,True,Mouse Marauders
+Neil,French,2376440,True,Maxed Out Tech
+Jefferson,Walton,2338957,True,Hashtag Web Consultants
+Skye,Galloway,2330995,False,High Voltage Technology
+Leon,Preston,2359851,True,Sub Zero Apps
+Lilianna,Bryant,2326429,False,Burnt City Software
+Anabella,Guerra,2324679,False,Trained In Tech
+Elena,Chavez,2372432,True,Core Cut
+Nicholas,Rice,2322490,True,Element Shows
+Lainey,Sampson,2397091,False,Amazing It Center
+Laila,Poole,2328641,True,Info Web House
+Aidan,Williams,2348058,True,Macro It Solutions
+Yadira,Harvey,2397933,False,Basis Technology
+Teagan,Spears,2318981,False,Nautics Technology
+Bria,Erickson,2344221,True,Encoders & Apps
+Cassie,Duran,2316731,False,Coders & Computers
+Esteban,Howard,2362320,False,Mad Tech Geeks
+Jaden,Jacobson,2330163,False,Big Giant
+Maria,Prince,2328518,False,Ascension Apps
+Finley,Molina,2332951,False,In Design
+Summer,Morris,2324350,True,In Motion
+Anne,Fuentes,2382922,True,Buildietech
+Cornelius,Ruiz,2399784,True,Micro Madness
+Ava,Shepherd,2379059,False,Total Tech
+Zackery,Sampson,2381172,False,Aurora Apps
+Ross,Tanner,2357079,True,Farley Technology
+Oscar,Long,2329289,False,Bass Information Technology
+Jadon,Case,2314712,False,Tech Theory
+Chandler,Spence,2343969,True,Bar Craft Tech
