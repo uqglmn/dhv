@@ -1,13 +1,19 @@
-Module,Level
-Linear Algebra,Level 4
-Statistics,Level 4
-Programming,Level 4
-Calculus,Level 4
-Algebra,Level 5
-Game Theory,Level 5
-Linear Modelling,Level 5
-Information Theory,Level 5
-Big Data,Level 6
-Block Chains,Level 6
-Computer Vision,Level 6
-Neural Networks,Level 6
+Level 0,Level 1
+Student,Name
+Student,Surname
+Year 1,Linear Algebra
+Year 1,Statistics
+Year 1,Programming
+Year 1,Calculus
+Year 2,Algebra
+Year 2,Game Theory
+Year 2,Linear Modelling
+Year 2,Information Theory
+Year 3,Big Data
+Year 3,Block Chains
+Year 3,Computer Vision
+Year 3,Neural Networks
+Final Year,Project
+Final Year,Title
+Placement,Industry
+Placement,Company
