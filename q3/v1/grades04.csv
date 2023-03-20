@@ -1,11 +1,11 @@
-Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Blockchains,Computer Vision,Neural Networks
-Louis,Ware,B,2334031,55,40,56,92,62,40,75,59,48
-Ayla,Whitehead,B,2339132,48,58,85,95,69,65,66,66,75
-Neil,French,B,2359065,59,62,80,87,69,88,74,74,44
-Jefferson,Walton,B,2383217,69,94,72,52,60,77,86,52,99
-Skye,Galloway,B,2353944,97,57,79,61,81,60,50,52,86
-Leon,Preston,B,2345868,75,98,93,81,41,86,49,95,78
-Lilianna,Bryant,B,2335687,68,44,83,40,71,74,40,67,56
-Anabella,Guerra,B,2333366,87,57,46,44,63,87,89,87,56
-Elena,Chavez,B,2388039,97,43,47,81,53,56,72,62,55
-Nicholas,Rice,B,2369971,83,68,53,52,93,87,74,47,93
+Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Cryptography,Computer Vision,Neural Networks
+Louis,Ware,B,2397276,93,62,68,68,40,90,40,86,47
+Ayla,Whitehead,B,2320348,79,98,43,65,84,66,75,90,51
+Neil,French,B,2363245,76,86,77,83,55,77,52,49,95
+Jefferson,Walton,B,2323177,88,66,75,43,97,77,78,64,77
+Skye,Galloway,B,2312927,64,66,62,94,62,66,56,69,69
+Leon,Preston,B,2324107,77,59,92,70,65,91,83,40,42
+Lilianna,Bryant,B,2391509,48,88,48,98,79,75,54,93,90
+Anabella,Guerra,B,2361777,61,45,40,96,79,48,54,59,67
+Elena,Chavez,B,2365761,45,90,62,83,66,94,86,48,93
+Nicholas,Rice,B,2312803,59,90,74,62,74,92,68,92,40

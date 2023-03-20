@@ -1,11 +1,11 @@
-Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Blockchains,Computer Vision,Neural Networks
-Axel,Lara,A,2398972,89,57,99,44,92,87,74,43,60
-Lillian,Williamson,A,2315869,42,46,54,59,81,75,81,60,76
-Jude,Luna,A,2320914,80,43,70,86,92,42,52,96,47
-Misael,Fitzgerald,A,2371749,45,50,44,70,45,68,80,82,58
-Raquel,Bender,A,2357045,51,57,62,62,62,77,79,78,57
-Makenna,Craig,A,2362494,75,82,83,92,79,98,98,50,84
-Gauge,Fritz,A,2373810,79,77,56,70,77,42,70,87,88
-Rory,Thomas,A,2362392,81,95,44,52,41,50,89,63,51
-Cruz,Key,A,2378525,85,67,44,75,97,87,76,97,95
-Matthew,Walton,A,2360354,48,42,58,46,47,88,42,41,65
+Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Cryptography,Computer Vision,Neural Networks
+Axel,Lara,A,2364733,93,77,68,52,78,47,99,47,92
+Lillian,Williamson,A,2362897,95,48,54,87,43,73,73,60,56
+Jude,Luna,A,2332904,97,63,60,46,46,86,49,81,89
+Misael,Fitzgerald,A,2325675,42,56,77,92,58,47,99,93,49
+Raquel,Bender,A,2311569,81,88,91,88,90,85,49,80,96
+Makenna,Craig,A,2387280,61,73,90,95,89,88,82,63,49
+Gauge,Fritz,A,2329966,82,63,93,73,48,55,89,73,52
+Rory,Thomas,A,2367003,82,92,78,45,44,71,58,50,60
+Cruz,Key,A,2326316,91,83,98,46,98,78,53,51,43
+Matthew,Walton,A,2331533,95,48,68,94,56,93,63,44,84

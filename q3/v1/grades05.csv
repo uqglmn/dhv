@@ -1,11 +1,11 @@
-Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Blockchains,Computer Vision,Neural Networks
-Lainey,Sampson,C,2334286,80,61,52,43,40,47,63,49,47
-Laila,Poole,C,2382462,78,78,62,73,71,47,95,51,70
-Aidan,Williams,C,2369102,80,82,92,74,42,53,56,59,96
-Yadira,Harvey,C,2354079,47,48,45,73,68,41,58,98,47
-Teagan,Spears,C,2324335,55,75,76,85,93,59,44,43,81
-Bria,Erickson,C,2314801,90,90,90,69,41,61,85,94,45
-Cassie,Duran,C,2393615,54,62,65,93,40,59,72,78,93
-Esteban,Howard,C,2344496,99,89,63,45,94,71,46,55,56
-Jaden,Jacobson,C,2345486,61,84,63,48,94,49,59,81,56
-Maria,Prince,C,2366037,41,76,44,45,73,86,89,78,41
+Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Cryptography,Computer Vision,Neural Networks
+Lainey,Sampson,C,2363954,89,98,71,49,99,76,61,68,44
+Laila,Poole,C,2354559,75,80,83,93,77,74,79,75,86
+Aidan,Williams,C,2380715,45,79,96,80,59,45,82,64,84
+Yadira,Harvey,C,2322596,95,42,62,43,58,62,73,95,86
+Teagan,Spears,C,2363235,96,85,62,76,55,52,66,97,92
+Bria,Erickson,C,2365699,75,83,94,72,91,78,42,42,44
+Cassie,Duran,C,2386621,55,64,68,45,60,94,57,64,56
+Esteban,Howard,C,2389445,68,79,85,81,45,53,62,67,88
+Jaden,Jacobson,C,2331860,75,93,45,58,66,92,64,95,49
+Maria,Prince,C,2340123,87,90,40,62,75,95,75,94,69

@@ -1,11 +1,11 @@
-Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Blockchains,Computer Vision,Neural Networks
-Santos,Montoya,B,2311251,48,53,47,57,46,97,96,60,40
-Carleigh,Mcguire,B,2316281,87,99,54,51,64,92,78,80,90
-Joanna,Gross,B,2330590,77,43,91,59,71,65,78,98,78
-Saige,Clayton,B,2357355,70,98,97,91,87,51,47,90,78
-Griffin,Wall,B,2381992,99,85,95,96,81,61,56,99,95
-Trent,Kelley,B,2354904,88,51,57,90,98,59,97,94,81
-Jalen,Yates,B,2318799,57,60,71,66,42,43,69,92,80
-Aniyah,Bradford,B,2316062,96,93,51,69,76,46,93,72,66
-Phillip,Mckinney,B,2326943,63,90,72,45,90,51,95,76,97
-Adolfo,Rose,B,2391115,52,89,58,52,68,57,86,58,46
+Name,Surname,Group,ID,Calculus,Statistics,Linear Algebra,Programming,Information Theory,Databases,Cryptography,Computer Vision,Neural Networks
+Santos,Montoya,B,2320413,64,78,75,99,90,87,83,77,75
+Carleigh,Mcguire,B,2349386,57,79,97,65,41,79,97,84,52
+Joanna,Gross,B,2311659,41,89,75,96,68,75,73,45,64
+Saige,Clayton,B,2336247,78,92,85,99,51,68,46,76,52
+Griffin,Wall,B,2353744,60,72,91,78,42,52,71,59,57
+Trent,Kelley,B,2311255,84,83,61,73,74,44,58,42,84
+Jalen,Yates,B,2399233,77,65,84,93,48,79,58,91,92
+Aniyah,Bradford,B,2315757,46,74,46,75,53,68,85,78,54
+Phillip,Mckinney,B,2338006,81,60,87,48,73,72,82,75,79
+Adolfo,Rose,B,2322225,63,60,47,44,64,98,78,85,40
