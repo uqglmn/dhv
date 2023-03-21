@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/v2/group_D.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/v2/group_E.csv
+https://raw.githubusercontent.com/uqglmn/dhv/main/q3/v2/group_F.csv
