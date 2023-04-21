@@ -16,17 +16,17 @@ Q6: No submission
 21069435,0.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22021904,3.0,"Q1: 1
+22021904,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 22029959,2.5,"Q1: 1
 Q2: 0.5
@@ -45,17 +45,17 @@ Q6: No submission
 21079437,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22018255,0.75,"Q1: 0 (code error)
+22018255,1.75,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0 (code error)
 Q4: 0 (code error)
-Q5: 0 (code error)
+Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 16085466,3.0,"Q1: 1
 Q2: 0.5
@@ -63,7 +63,7 @@ Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21031927,2.0,"Q1: 1
 Q2: 0.5
@@ -117,13 +117,13 @@ Q5: 1
 Q6a: 0 (incorrect DataFrame degrees)
 Q6b: 0 (incorrect CSV file)
 "
-22009281,2.5,"Q1: 0 (code error)
+22009281,2.5,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0.5
 Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (incorrect CSV file)
 "
 22025077,2.0,"Q1: 1
 Q2: 0.5
@@ -135,21 +135,21 @@ Q6: 0 (code error)
 22019362,0.5,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 22031619,0.5,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21061797,3.5,"Q1: 0 (code error)
+21061797,3.0,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
+Q4: 0 (code error)
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
@@ -161,13 +161,13 @@ Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Us
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-22014729,1.5,"Q1: No submission
+22014729,1.75,"Q1: No submission
 Q2: 0.5
 Q3: 0 (code error)
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 22034552,2.0,"Q1: 1
 Q2: 0.5
@@ -179,7 +179,7 @@ Q6: 0 (code error)
 21089475,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -193,10 +193,10 @@ Q6: 0 (code error)
 22013825,1.75,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22029582,0.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0 (incorrect DataFrame grades)
@@ -208,23 +208,23 @@ Q6: 0 (code error)
 22024022,0.75,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22034351,0.75,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
-22036334,2.0,"Q1: 0 (incorrect DataFrame grades)
+22036334,1.0,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0.5
 Q3: 0.5
-Q4: 1
+Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -238,10 +238,10 @@ Q6: 0 (code error)
 22024927,2.75,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21082679,3.0,"Q1: 1
 Q2: 0.5
@@ -304,27 +304,27 @@ Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21081095,1.0,"Q1: 1
+21081095,2.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 22033683,1.25,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 21064285,0.75,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22029348,2.5,"Q1: 0 (code error)
 Q2: 0.5
@@ -332,7 +332,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22035573,4.75,"Q1: 1
 Q2: 0.5
@@ -340,7 +340,7 @@ Q3: 0.5
 Q4: 1
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22014926,2.0,"Q1: 1
 Q2: 0.5
@@ -376,7 +376,7 @@ Q6b: 0.25
 21031902,0.5,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -390,7 +390,7 @@ Q6: 0 (code error)
 21079825,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -471,7 +471,7 @@ Q6b: 0.25
 22033731,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -494,14 +494,14 @@ Q6b: 0.25
 22033690,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21071390,3.5,"Q1: 1
+21071390,3.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
+Q4: 0 (code error)
 Q5: 0 (code error)
 Q6a: 0.75
 Q6b: 0.25
@@ -536,13 +536,12 @@ Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-21065622,5.0,"Q1: 1
+21065622,4.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 1
-Q6a: 0.75
-Q6b: 0.25
+Q6: 0 (code error)
 "
 22008590,4.0,"Q1: 0 (code error)
 Q2: 0.5
@@ -562,7 +561,7 @@ Q6: 0 (code error)
 22023675,3.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
@@ -604,12 +603,12 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22015028,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -624,7 +623,7 @@ Q6b: 0.25
 22017418,3.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
@@ -632,7 +631,7 @@ Q6b: 0.25
 21082757,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -657,7 +656,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22035013,4.0,"Q1: 1
 Q2: 0.5
@@ -673,7 +672,7 @@ Q3: 0 (incorrect DataFrame grades)
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21069773,4.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
@@ -719,10 +718,10 @@ Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-9264953,3.5,"Q1: 1
+9264953,3.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
+Q4: 0 (code error)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
@@ -751,7 +750,7 @@ Q6: 0 (code error)
 21089746,0.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -864,7 +863,7 @@ Q6: 0 (code error)
 Q2: 0.5
 Q3: 0.5
 Q4: 0 (code error)
-Q5: 0 (code error)
+Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
 21070375,0.0,"Q1: 0 (code error)
@@ -877,14 +876,14 @@ Q6: 0 (code error)
 21088719,0.5,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22000481,4.5,"Q1: 1
+22000481,4.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
+Q4: 0 (code error)
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
@@ -895,7 +894,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22025724,3.0,"Q1: 1
 Q2: 0.5
@@ -922,7 +921,7 @@ Q6b: 0.25
 21072112,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -932,12 +931,12 @@ Q3: 0 (code error)
 Q4: 0 (code error)
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21087185,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -947,7 +946,7 @@ Q3: 0 (code error)
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22019056,2.5,"Q1: 1
 Q2: 0.5
@@ -962,7 +961,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21060337,2.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
@@ -974,7 +973,7 @@ Q6: 0 (code error)
 21071843,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -999,7 +998,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21053979,2.0,"Q1: 1
 Q2: 0.5
@@ -1014,7 +1013,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22032995,4.25,"Q1: 1
 Q2: 0.5
@@ -1022,7 +1021,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22031825,2.5,"Q1: 1
 Q2: 0.5
@@ -1045,7 +1044,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21032107,4.0,"Q1: 1
 Q2: 0.5
@@ -1058,7 +1057,7 @@ Q6b: 0.25
 22033973,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1105,7 +1104,7 @@ Q3: 0 (incorrect DataFrame grades)
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21087748,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -1117,7 +1116,7 @@ Q6: 0 (code error)
 21094100,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1127,7 +1126,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21061492,4.5,"Q1: 1
 Q2: 0.5
@@ -1143,7 +1142,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22030582,2.5,"Q1: 1
 Q2: 0.5
@@ -1196,7 +1195,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22027487,4.25,"Q1: 1
 Q2: 0.5
@@ -1204,7 +1203,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22024816,4.25,"Q1: 1
 Q2: 0.5
@@ -1212,7 +1211,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21067988,3.0,"Q1: 1
 Q2: 0.5
@@ -1232,14 +1231,14 @@ Q6b: 0.25
 22020952,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 21079895,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6a: 0.75
 Q6b: 0.25
@@ -1257,7 +1256,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22023879,4.0,"Q1: 1
 Q2: 0.5
@@ -1339,7 +1338,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22027918,5.0,"Q1: 1
 Q2: 0.5
@@ -1367,7 +1366,7 @@ Q6: 0 (code error)
 18025277,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1377,12 +1376,12 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21089120,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1399,7 +1398,7 @@ Q3: 0 (code error)
 Q4: 0 (code error)
 Q5: 0 (code error)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (incorrect CSV file)
 "
 22020732,2.5,"Q1: 1
 Q2: 0.5
@@ -1447,7 +1446,7 @@ Q6b: 0.25
 21077444,1.5,"Q1: 1
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1457,12 +1456,12 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21087723,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1498,7 +1497,7 @@ Q6: 0 (code error)
 21074109,0.5,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1544,11 +1543,11 @@ Q6b: 0.25
 22008838,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21059045,2.5,"Q1: 0 (incorrect DataFrame grades)
+21059045,2.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0 (incorrect DataFrame grades)
 Q4: 1
@@ -1597,7 +1596,7 @@ Q6b: 0.25
 21060940,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1607,7 +1606,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21062872,5.0,"Q1: 1
 Q2: 0.5
@@ -1623,7 +1622,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22027370,3.25,"Q1: 1
 Q2: 0.5
@@ -1631,7 +1630,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21085206,5.0,"Q1: 1
 Q2: 0.5
@@ -1722,7 +1721,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22030006,2.0,"Q1: 1
 Q2: 0.5
@@ -1751,7 +1750,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21067973,2.0,"Q1: 1
 Q2: 0.5
@@ -1782,7 +1781,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21079910,3.0,"Q1: 1
 Q2: 0.5
@@ -1795,7 +1794,7 @@ Q6b: 0.25
 22032987,1.0,"Q1: 1
 Q2: 0 (code error)
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1843,18 +1842,18 @@ Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22032354,3.0,"Q1: 1
+22032354,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 21091112,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1868,7 +1867,7 @@ Q6: 0 (code error)
 22018864,1.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1944,7 +1943,7 @@ Q3: 0 (incorrect DataFrame grades)
 Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22014871,3.75,"Q1: 1
 Q2: 0.5
@@ -1952,7 +1951,7 @@ Q3: 0.5
 Q4: 0 (code error)
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22021887,1.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
@@ -1960,7 +1959,7 @@ Q3: 0 (incorrect DataFrame grades)
 Q4: 0 (code error)
 Q5: 0 (code error)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21061906,2.0,"Q1: 0 (code error)
 Q2: 0.5
@@ -1972,7 +1971,7 @@ Q6: 0 (code error)
 22002781,0.5,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -1989,12 +1988,12 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22020836,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
@@ -2018,7 +2017,7 @@ Q3: 0.5
 Q4: 1
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21060292,4.5,"Q1: 1
 Q2: 0 (code error)
@@ -2053,7 +2052,7 @@ Q6: 0 (code error)
 21087866,1.5,"Q1: 1
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2092,7 +2091,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21001551,4.0,"Q1: 1
 Q2: 0.5
@@ -2102,18 +2101,18 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-22030494,4.0,"Q1: 1
+22030494,5.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
-Q5: 0 (incorrect DataFrame mean_grades)
+Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
 22022247,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2179,7 +2178,7 @@ Q6: 0 (code error)
 21081427,0.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2193,14 +2192,14 @@ Q6: 0 (code error)
 22001928,1.0,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 22037101,0.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2292,7 +2291,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21080899,1.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -2314,7 +2313,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22026244,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -2366,15 +2365,15 @@ Q3: 0 (code error)
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
-22021986,3.0,"Q1: 1
+22021986,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 22019524,3.0,"Q1: 1
 Q2: 0.5
@@ -2411,7 +2410,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22031471,5.0,"Q1: 1
 Q2: 0.5
@@ -2461,7 +2460,7 @@ Q6b: 0.25
 21084757,0.75,"Q1: 0.75 (you forgot to sort by ID column and reset the index.)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2493,7 +2492,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22021442,0.5,"Q1: 0 (code error)
 Q2: 0.5
@@ -2505,7 +2504,7 @@ Q6: 0 (code error)
 21031782,3.0,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
@@ -2545,7 +2544,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21071643,4.0,"Q1: 1
 Q2: 0.5
@@ -2592,7 +2591,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21083870,4.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
@@ -2602,13 +2601,13 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-22030390,3.0,"Q1: 1
+22030390,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 22003565,3.0,"Q1: 1
 Q2: 0.5
@@ -2624,13 +2623,13 @@ Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-22026785,3.0,"Q1: 1
+22026785,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 22024053,4.5,"Q1: 1
 Q2: 0.5
@@ -2659,7 +2658,7 @@ Q6b: 0.25
 21071803,1.5,"Q1: 1
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2669,15 +2668,15 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
-22018647,3.0,"Q1: 1
+22018647,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 22015002,4.0,"Q1: 1
 Q2: 0.5
@@ -2687,13 +2686,13 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-22013306,3.0,"Q1: 1
+22013306,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 16085466,3.0,"Q1: 1
 Q2: 0.5
@@ -2715,7 +2714,7 @@ Q3: 0 (incorrect DataFrame grades)
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22027875,3.0,"Q1: 1
 Q2: 0.5
@@ -2724,13 +2723,13 @@ Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-22031006,3.0,"Q1: 1
+22031006,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 21076003,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -2753,13 +2752,13 @@ Q4: 1
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22028322,3.0,"Q1: 1
+22028322,3.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 21083353,4.0,"Q1: 1
 Q2: 0.5
@@ -2772,14 +2771,14 @@ Q6b: 0 (incorrect CSV file)
 21063938,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 21073704,1.5,"Q1: 1
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2803,7 +2802,7 @@ Q3: 0.5
 Q4: 1
 Q5: 1
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21090027,4.0,"Q1: 1
 Q2: 0.5
@@ -2816,14 +2815,14 @@ Q6b: 0.25
 21083875,1.5,"Q1: 1
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
 21073161,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2857,18 +2856,18 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21060791,5.0,"Q1: 1
+21060791,4.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
 Q5: 1
-Q6a: 0.75
+Q6a: 0 (incorrect DataFrame degrees)
 Q6b: 0.25
 "
 21080052,1.0,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -2885,7 +2884,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21082921,4.0,"Q1: 1
 Q2: 0.5
@@ -2907,8 +2906,7 @@ Q2: 0.5
 Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (code error)
-Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6: 0 (code error)
 "
 22026376,1.5,"Q1: 0 (code error)
 Q2: 0.5
@@ -2924,12 +2922,12 @@ Q4: 1
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22033745,3.5,"Q1: 0 (incorrect DataFrame grades)
+22033745,2.75,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0.5
 Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
-Q6a: 0.75
+Q6a: 0 (incorrect DataFrame degrees)
 Q6b: 0.25
 "
 22019746,2.5,"Q1: 1
@@ -2968,7 +2966,7 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21065654,1.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -3102,12 +3100,12 @@ Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21031789,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -3129,9 +3127,9 @@ Q6: 0 (code error)
 Q2: 0.5
 Q3: 0.5
 Q4: 1
-Q5: 0 (code error)
+Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 21032372,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -3177,13 +3175,12 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-22033095,3.5,"Q1: 1
+22033095,2.5,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (code error)
-Q6a: 0.75
-Q6b: 0.25
+Q6: 0 (code error)
 "
 22033074,2.0,"Q1: 1
 Q2: 0.5
@@ -3227,9 +3224,10 @@ Q6b: 0.25
 21083183,0.0,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
-Q4: 0 (code error)
-Q5: 0 (code error)
-Q6: 0 (code error)
+Q4: 0 (incorrect DataFrame grades)
+Q5: 0 (incorrect DataFrame mean_grades)
+Q6a: 0 (incorrect DataFrame degrees)
+Q6b: 0 (incorrect CSV file)
 "
 21032283,2.0,"Q1: 1
 Q2: 0.5
@@ -3238,18 +3236,18 @@ Q4: 0 (code error)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-21065799,4.0,"Q1: 1
+21065799,4.5,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21061496,4.0,"Q1: 1
+21061496,4.5,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
@@ -3273,7 +3271,7 @@ Q6b: 0.25
 21082045,2.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
@@ -3308,10 +3306,10 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21032189,3.0,"Q1: 0 (code error)
+21032189,3.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
@@ -3324,11 +3322,11 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21025871,1.0,"Q1: 0 (incorrect DataFrame grades)
+21025871,2.0,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
 Q4: 0 (incorrect DataFrame grades)
-Q5: 0 (incorrect DataFrame mean_grades)
+Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
@@ -3347,11 +3345,11 @@ Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
 "
-21031241,3.0,"Q1: 1
+21031241,4.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (code error)
 Q4: 1
-Q5: 0 (incorrect DataFrame mean_grades)
+Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
@@ -3371,11 +3369,11 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21085700,3.0,"Q1: 1
+21085700,4.0,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
 Q4: 1
-Q5: 0 (incorrect DataFrame mean_grades)
+Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
@@ -3516,7 +3514,7 @@ Q3: 0 (incorrect DataFrame grades)
 Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22034202,0.0,"Q1: 0 (code error)
 Q2: 0 (code error)
@@ -3550,7 +3548,7 @@ Q6: 0 (code error)
 22033815,0.5,"Q1: 0 (code error)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -3567,21 +3565,21 @@ Q3: 0.5
 Q4: 0 (code error)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
-21031681,4.0,"Q1: 1
+21031681,4.25,"Q1: 1
 Q2: 0.5
 Q3: 0.5
 Q4: 1
-Q5: 0 (incorrect DataFrame mean_grades)
-Q6a: 0.75
+Q5: 1
+Q6a: 0 (incorrect DataFrame degrees)
 Q6b: 0.25
 "
-22034204,3.0,"Q1: 1
+22034204,5.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
-Q5: 0 (incorrect DataFrame mean_grades)
+Q4: 1
+Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
@@ -3592,17 +3590,17 @@ Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22023213,2.0,"Q1: 1
+22023213,3.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
 21060794,1.0,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
@@ -3612,7 +3610,7 @@ Q3: 0.5
 Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (missing CSV file)
+Q6b: 0 (missing or incorrect CSV file)
 "
 22022298,1.5,"Q1: 1
 Q2: 0 (incorrect DataFrame grades)
@@ -3621,25 +3619,25 @@ Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21071658,0.5,"Q1: 0 (code error)
+21071658,1.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0 (code error)
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-22014947,3.0,"Q1: 1
+22014947,4.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
 "
-22030978,3.0,"Q1: 1
+22030978,4.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
@@ -3658,10 +3656,10 @@ Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21072747,2.0,"Q1: 1
+21072747,3.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
@@ -3672,10 +3670,10 @@ Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22028339,3.0,"Q1: 1
+22028339,4.0,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
