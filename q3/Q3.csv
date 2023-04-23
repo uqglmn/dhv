@@ -49,11 +49,11 @@ Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22018255,1.75,"Q1: 0 (code error)
+22018255,0.75,"Q1: 0 (code error)
 Q2: 0 (code error)
 Q3: 0 (code error)
 Q4: 0 (code error)
-Q5: 1
+Q5: 0 (code error)
 Q6a: 0.75
 Q6b: 0 (missing or incorrect CSV file)
 "
@@ -117,7 +117,7 @@ Q5: 1
 Q6a: 0 (incorrect DataFrame degrees)
 Q6b: 0 (incorrect CSV file)
 "
-22009281,2.5,"Q1: 0 (incorrect DataFrame grades)
+22009281,2.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
 Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
@@ -146,10 +146,10 @@ Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21061797,3.0,"Q1: 0 (code error)
+21061797,3.5,"Q1: 0 (code error)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 1
 Q6a: 0.75
 Q6b: 0.25
@@ -221,10 +221,10 @@ Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0 (missing or incorrect CSV file)
 "
-22036334,1.0,"Q1: 0 (incorrect DataFrame grades)
+22036334,2.0,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 1
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
@@ -498,10 +498,10 @@ Q4: 0 (code error - there is no column 'Column' in levels DataFrame)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-21071390,3.0,"Q1: 1
+21071390,3.5,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (code error)
 Q6a: 0.75
 Q6b: 0.25
@@ -718,10 +718,10 @@ Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6: 0 (code error)
 "
-9264953,3.0,"Q1: 1
+9264953,3.5,"Q1: 1
 Q2: 0.5
 Q3: 0.5
-Q4: 0 (code error)
+Q4: 0.5 (incorrect MultiIndex: Databases and Information Theory are mixed up. Use dictionary to assign levels to columns.) 
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0.75
 Q6b: 0.25
@@ -863,7 +863,7 @@ Q6: 0 (code error)
 Q2: 0.5
 Q3: 0.5
 Q4: 0 (code error)
-Q5: 0 (incorrect DataFrame mean_grades)
+Q5: 0 (code error)
 Q6: 0 (code error)
 "
 21070375,0.0,"Q1: 0 (code error)
@@ -1685,8 +1685,8 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21062529,3.5,"Q1: 1
-Q2: 0 (incorrect DataFrame grades)
+21062529,4.0,"Q1: 1
+Q2: 0.5
 Q3: 0.5
 Q4: 0 (code error)
 Q5: 1
@@ -3221,13 +3221,13 @@ Q5: 1
 Q6a: 0.75
 Q6b: 0.25
 "
-21083183,0.0,"Q1: 0 (incorrect DataFrame grades)
+21083183,0.25,"Q1: 0 (incorrect DataFrame grades)
 Q2: 0 (incorrect DataFrame grades)
 Q3: 0 (incorrect DataFrame grades)
 Q4: 0 (incorrect DataFrame grades)
 Q5: 0 (incorrect DataFrame mean_grades)
 Q6a: 0 (incorrect DataFrame degrees)
-Q6b: 0 (incorrect CSV file)
+Q6b: 0.25
 "
 21032283,2.0,"Q1: 1
 Q2: 0.5
@@ -3685,8 +3685,8 @@ Q4: 0 (code error)
 Q5: 0 (code error)
 Q6: 0 (code error)
 "
-22014119,0.0,"Q1: 0 (incorrect DataFrame grades)
-Q2: 0 (code error)
+22014119,1.5,"Q1: 1
+Q2: 0.5
 Q3: 0 (code error)
 Q4: 0 (code error)
 Q5: 0 (incorrect DataFrame mean_grades)
