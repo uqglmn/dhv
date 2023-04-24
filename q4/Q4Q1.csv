@@ -1,1748 +1,1354 @@
 sis_id,Q1,Q1F
 18024893,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21025871,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21021179,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21031179,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 21031789,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21031916,0.0,No subsmission
 21031876,1.75,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21031902,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21032143,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21019292,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21031615,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21059244,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21058783,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21062579,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21058337,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21059393,0.0,Q1: 0 (code error)
 21060791,0.0,Q1: 0 (code error)
 21061797,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21062529,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21056345,0.0,Q1: 0 (code error)
 21063938,0.0,Q1: 0 (code error)
 21060840,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21061615,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21061898,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21031241,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21062872,0.0,Q1: 0 (code error)
 21065300,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 20068140,0.0,Q1: 0 (code error)
 21064725,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
-21066861,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+21066861,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 21032279,0.0,Q1: 0 (code error)
 21064090,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21061496,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21060841,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21065622,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21064082,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21065287,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069773,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21066459,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 21070585,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21065332,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21031681,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21056410,0.0,Q1: 0 (code error)
 21031782,0.0,Q1: 0 (code error)
 21073209,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21072747,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21073421,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21063203,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.00
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 21070401,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21071643,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21074736,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21070528,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21068225,0.0,Q1: 0 (code error)
 21057995,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21065654,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21075077,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21070731,0.0,Q1: 0 (code error)
 21068017,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069608,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21077794,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21049397,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079264,0.0,Q1: 0 (code error)
 21069530,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 21076924,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21077964,0.0,Q1: 0 (code error)
 21077977,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21076115,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21076427,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21076452,1.75,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21069118,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21073999,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21032070,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21078125,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.00 (incorrect index)
 Q1b: 0 (Series are incompatible) "
 21077444,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079856,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079437,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21080370,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21080305,0.0,Q1: 0 (code error)
 21079895,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21071792,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21073949,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
-21080962,0.0,Q1: 0 (code error)
+Q1b: 1.00 (all seasonal values are incorrect)"
+21080962,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
+Q1a: 1.00
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079257,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079867,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079960,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21070375,0.0,Q1: 0 (code error)
 21073704,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069702,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21081442,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21032189,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21081912,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21043511,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21046814,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21081095,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21061766,1.75,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21061492,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21076039,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21076696,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21083834,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21071803,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21082921,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21078449,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21060799,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21078957,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21064790,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21065257,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21073802,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21080052,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21063192,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 21081185,0.0,No subsmission
 21083875,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21084819,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed mean, not min)Q1b: 0 (incorrect answer, you computed mean, not min)"
+Q1a: 0 (incorrect answer, you computed mean, not min)
+Q1b: 0 (incorrect answer, you computed mean, not min)
+"
 21071658,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21001551,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21031682,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069691,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21060336,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21083133,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21067973,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21076384,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21085095,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21083870,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21084603,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21032186,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21084824,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21059045,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21065799,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21067988,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21076003,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21063707,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21058791,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21082045,0.0,Q1: 0 (code error)
 21082058,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21084757,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21087723,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21076866,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21086849,0.0,Q1: 0 (code error)
 21087019,0.0,No subsmission
 21060249,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21071390,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21078637,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21087736,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21082185,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21083211,0.0,Q1: 0 (code error)
 21082570,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21088776,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21085699,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21078631,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21087748,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21087866,0.0,Q1: 0 (code error)
 21088470,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21089746,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-21071843,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (Series are incompatible) 
-Q1b: 0 (Series are incompatible) "
+Q1b: 1.00 (all seasonal values are incorrect)"
+21071843,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
+Q1a: 1.00
+Q1b: 0.75 (some seasonal values are incorrect)"
 21060940,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21080899,0.0,Q1: 0 (code error)
 21071305,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21060794,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21062821,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21063319,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069435,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21070709,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21066186,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21088775,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21078439,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21082757,1.75,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21088746,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21089866,0.0,Q1: 0 (code error)
 21088796,0.0,No subsmission
 21081467,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21088910,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21089475,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21066565,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21077565,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21082184,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21083353,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21088719,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21066576,0.0,Q1: 0 (code error)
 21077839,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 21087185,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21090449,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21090443,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21085657,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 17025391,0.0,Q1: 0 (code error)
-21072112,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
-Q1a: 0 (Series are incompatible) 
-Q1b: 0 (Series are incompatible) "
+21072112,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
+Q1a: 1.00
+Q1b: 0.75 (some seasonal values are incorrect)"
 21083517,0.0,Q1: 0 (code error)
 21090446,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21060337,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21064263,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21074109,0.0,Q1: 0 (code error)
 21090027,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21091274,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21082445,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21091107,1.75,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21085700,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21091112,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21090705,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21091105,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21091116,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21091943,0.0,Q1: 0 (code error)
 21078501,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 21080788,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21087187,0.0,Q1: 0 (code error)
 21089713,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 21073161,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21077309,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079910,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21088050,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069496,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21069497,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 21083183,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21069406,0.0,Q1: 0 (code error)
 21085206,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079825,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22003064,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22003118,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
-22002781,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22002781,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22007462,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22007462,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22007583,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22008838,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22008852,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22009238,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22010011,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22010044,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22010044,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22012098,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22012098,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22003331,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21081427,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 21060292,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21079279,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21084741,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21087223,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22009171,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22014947,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22015002,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22015002,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22011561,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22012335,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed mean, not max)Q1b: 0 (incorrect answer, you computed mean, not max)"
+Q1a: 0 (incorrect answer, you computed mean, not max)
+Q1b: 0 (incorrect answer, you computed mean, not max)
+"
 22014806,0.0,Q1: 0 (code error)
-22014663,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22014663,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22014871,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22014871,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22014926,0.0,Q1: 0 (code error)
 22014729,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22014732,0.0,Q1: 0 (code error)
 21060843,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21064285,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 22001288,0.0,Q1: 0 (code error)
-22016255,1.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+22016255,1.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 21087845,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-21089120,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+21089120,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 21094100,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
 22008590,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 22014268,0.0,Q1: 0 (code error)
 22015028,0.0,No subsmission
 21083402,0.0,Q1: 0 (code error)
 22018255,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22003565,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22013825,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22013825,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-21032107,0.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+21032107,0.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 0 (Series are incompatible) 
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22020836,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22020950,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22019455,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22019524,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 22018647,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22018704,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22018704,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22019056,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22017418,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22018315,0.0,Q1: 0 (code error)
 22019362,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22000809,0.0,Q1: 0 (code error)
 22022298,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
-22022308,0.0,Q1: 0 (code error)
+Q1b: 1.00 (all seasonal values are incorrect)"
+22022308,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
+Q1a: 1.00
+Q1b: 1.00 (all seasonal values are incorrect)"
 22018914,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
-22020952,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22020952,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22021442,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22021904,0.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 22018864,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
-22023493,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
+22023493,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22023695,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22018206,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22023513,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
 22023675,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22011957,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22013137,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22013137,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22021440,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22021887,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22022247,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22014119,0.0,Q1: 0 (code error)
-22014780,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22014780,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 21053979,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22019686,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22021423,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22021423,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22021651,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22021986,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22022295,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22026479,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
-22026480,1.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22026480,1.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22026516,0.0,Q1: 0 (code error)
 22016279,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22025724,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22025724,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22024464,0.0,Q1: 0 (code error)
 16085466,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 18001761,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22027487,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22027487,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22026785,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22026954,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22023287,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22015946,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
-22014197,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22014197,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22027918,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 22018731,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22019461,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22020190,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024637,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024816,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024927,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22028211,0.0,Q1: 0 (code error)
 22028339,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22029346,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22028088,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22013145,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22013012,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22019746,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024041,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22029959,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22029959,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22030494,1.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22030494,1.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22030629,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030277,0.0,Q1: 0 (code error)
 22028117,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21059972,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed mean, not min)Q1b: 0 (incorrect answer, you computed mean, not min)"
+Q1a: 0 (incorrect answer, you computed mean, not min)
+Q1b: 0 (incorrect answer, you computed mean, not min)
+"
 21080409,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21090263,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22010606,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22017391,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22017391,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22020227,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22020227,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22027116,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22027179,0.0,Q1: 0 (code error)
 22031916,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22013306,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22019388,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031216,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030006,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
 22030246,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22029887,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 22030978,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031651,0.0,Q1: 0 (code error)
 22014212,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030441,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031825,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024044,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 22027731,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22028322,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22029348,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22029940,0.0,Q1: 0 (code error)
-22030995,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22030995,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22031115,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031328,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031386,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031471,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22018497,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22022717,0.0,Q1: 0 (code error)
-21032372,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+21032372,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 21094285,1.75,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0.75 (incorrect index)
-Q1b: 1.00"
-22015151,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22015151,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22032880,1.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22032880,1.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22032229,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22033166,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22033166,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22019057,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22019181,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 22019717,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22019954,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22022407,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031457,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22023817,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
-Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
+22023817,0.0,Q1: 0 (code error)
 22024053,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031931,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024186,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0 (Series are incompatible) "
 22026376,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
-22027875,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22027875,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22029582,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
-22030230,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
+22030230,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22031006,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22001928,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22032987,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033690,0.0,Q1: 0 (code error)
 22033731,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
-22013369,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
+22013369,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22033054,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033074,0.0,Q1: 0 (code error)
-22033469,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22033469,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22033029,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22033029,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22033310,0.0,No subsmission
 22032994,0.0,No subsmission
-22032995,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22032995,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22033008,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
-21082679,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
+21082679,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
 Q1a: 0.00
-Q1b: 0 (Series are incompatible) "
+Q1b: 1.00 (all seasonal values are incorrect)"
 22017251,0.0,Q1: 0 (code error)
 22020862,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22021169,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22027065,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22028166,1.75,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
 Q1b: 0.75 (some seasonal values are incorrect)"
 22028171,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22032245,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 0.00"
-22032813,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 0.00 (all seasonal values are incorrect)"
+22032813,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22032815,0.0,Q1: 0 (code error)
 22033973,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030643,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22032354,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22010726,0.0,Q1: 0 (code error)
 22025077,0.0,Q1: 0 (code error)
 22033170,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22031451,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b: 1.00"
-22018185,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22018185,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
-22022321,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b:0.90 (incorrect variable name)"
+22022321,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 21089515,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22010815,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22010815,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22010955,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22013771,0.0,Q1: 0 (code error)
 22031619,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033511,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed min, not max)Q1b: 0.00"
+Q1a: 0 (incorrect answer, you computed min, not max)
+Q1b: 0.00 (all seasonal values are incorrect)"
 22033934,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22034116,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22034351,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22031426,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22031426,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22027370,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030848,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22022080,0.0,No subsmission
 22024193,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22024306,1.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22024306,1.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22000481,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22020699,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22026993,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22013347,1.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 21061906,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22036334,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22014216,0.0,Q1: 0 (code error)
 22026244,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
 Q1b:0.00 (incorrect variable name)"
 22031645,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024161,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22032127,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22034665,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22036166,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22036166,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22036785,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033009,0.0,Q1: 0 (code error)
 22033606,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22023879,0.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 22028852,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22020732,0.0,Q1: 0 (code error)
 22022447,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
-22031077,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22031077,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22031854,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22033095,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22033095,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22033191,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22023213,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030390,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-21032283,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+21032283,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22034552,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22010553,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 22032658,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22034095,1.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 9264953,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22013821,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033683,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
 22034204,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22009281,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033745,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033688,0.0,Q1: 0 (code error)
 22004878,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22035405,0.0,Q1: 0 (code error)
-22034845,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22034845,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22034202,0.0,Q1: 0 (code error)
-22035088,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+22035088,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22030331,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033815,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 21090741,0.0,Q1: 0 (code error)
 22035083,0.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
 Q1b: 0 (Series are incompatible) "
 22033769,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22030582,0.0,Q1: 0 (code error)
 22035573,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033063,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 0.00"
+Q1b: 0.00 (all seasonal values are incorrect)"
 21084622,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22037101,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed max, not min)Q1b: 0 (incorrect answer, you computed max, not min)"
+Q1a: 0 (incorrect answer, you computed max, not min)
+Q1b: 0 (incorrect answer, you computed max, not min)
+"
 22033473,0.0,No subsmission
-22034785,1.8,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
+22034785,1.9,"Q12: min_monthly_temp & mean_min_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22031359,2.0,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033174,0.0,Q1: 0 (code error)
 22033782,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22032918,0.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
-Q1a: 0 (incorrect answer, you computed mean, not min)Q1b: 0 (incorrect answer, you computed mean, not min)"
+Q1a: 0 (incorrect answer, you computed mean, not min)
+Q1b: 0 (incorrect answer, you computed mean, not min)
+"
 22024022,1.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 0 (Series are incompatible) 
-Q1b: 1.00"
-22035079,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22035079,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22036904,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22035013,2.0,"Q12: min_monthly_temp & mean_min_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22033605,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
+Q1b: 1.00 (all seasonal values are incorrect)"
 22024560,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22014223,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22014223,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22026155,2.0,"Q11: mean_monthly_temp & mean_seasonal_temp
-
 Q1a: 1.00
-Q1b: 1.00"
-22033502,1.8,"Q13: max_monthly_temp & mean_max_seasonal_temp
-
+Q1b: 1.00 (all seasonal values are incorrect)"
+22033502,1.9,"Q13: max_monthly_temp & mean_max_seasonal_temp
 Q1a: 1.00
-Q1b:0.80 (incorrect variable name)"
+Q1b:0.90 (incorrect variable name)"
 22041881,0.0,Q1: 0 (code error)
