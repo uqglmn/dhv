@@ -98,7 +98,7 @@ Q2c: 1.00 ()"
 20068140,0.9,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 0.90 ( -0.05 for 'year' dtype. -0.05 for 'gross_earning' dtype.)
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 1920-1979)"
 21064725,0.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2: 0 (code error)"
 21066861,2.9,"Q22: top_adventure & top_three_genres in 1980-1999
@@ -246,7 +246,7 @@ Q2c: 1.00 ()"
 21076427,0.95,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 0 (incompatible DataFrame top_comedy)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 2000-2022)"
 21076452,2.95,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -266,7 +266,7 @@ Q2c: 1.00 ()"
 21078125,2.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 1980-1999)"
 21077444,2.95,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -297,8 +297,10 @@ Q2c: 1.00 ()"
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
 Q2c: 1.00 ()"
-21080962,0.0,"Q23: top_comedy & top_three_genres in 1920-1979
-Q2: 0 (code error)"
+21080962,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
+Q2a: 1.00 ()
+Q2b: 1.00 ()
+Q2c: 1.00 ()"
 21079257,2.95,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -306,7 +308,7 @@ Q2c: 1.00 ()"
 21079867,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 21079960,2.9,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 0.90 ( -0.05 for 'year' dtype. -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -613,7 +615,7 @@ Q2: 0 (code error)"
 21081467,2.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 1980-1999)"
 21088910,2.95,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -625,7 +627,7 @@ Q2c: 1.00 ()"
 21066565,2.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1980-1999)"
 21077565,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -643,7 +645,7 @@ Q2: 0 (code error)"
 21066576,1.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_action)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1920-1979)"
 21077839,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -707,7 +709,7 @@ Q2c: 1.00 ()"
 21085700,1.9,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 0.90 ( -0.05 for 'year' dtype. -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1980-1999)"
 21091112,2.95,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -741,7 +743,7 @@ Q2: 0 (code error)"
 21089713,1.6,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 0.60 ( -0.4 for partially correct DataFrame top_action: it has 55 rows, should be 54 rows, 34 are correct)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1920-1979)"
 21073161,2.95,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 1.00 ()
@@ -799,7 +801,7 @@ Q2c: 1.00 ()"
 22007583,2.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 1980-1999)"
 22008838,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -815,7 +817,7 @@ Q2c: 1.00 ()"
 22010011,2.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 1980-1999)"
 22010044,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -863,7 +865,7 @@ Q2c: 1.00 ()"
 22011561,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22012335,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -873,7 +875,7 @@ Q2: 0 (code error)"
 22014663,1.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_action)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1920-1979)"
 22014871,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -937,7 +939,7 @@ Q2: 0 (code error)"
 22003565,2.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 1920-1979)"
 22013825,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -989,7 +991,7 @@ Q2c: 1.00 ()"
 22000809,1.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_comedy)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 2000-2022)"
 22022298,1.67,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 0 (incompatible DataFrame movies)
 Q2b: 1.00 ()
@@ -999,7 +1001,7 @@ Q2: 0 (code error)"
 22018914,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22020952,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1011,11 +1013,11 @@ Q2c: 1.00 ()"
 22021904,0.95,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 0 (incompatible DataFrame top_comedy)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 2000-2022)"
 22018864,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22023493,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1067,7 +1069,7 @@ Q2c: 1.00 ()"
 21053979,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22019686,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1087,7 +1089,7 @@ Q2c: 1.00 ()"
 22022295,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 1920-1979)"
 22026479,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1195,7 +1197,7 @@ Q2c: 1.00 ()"
 22024041,2.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1920-1979)"
 22029959,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1211,7 +1213,7 @@ Q2c: 1.00 ()"
 22030277,2.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1920-1979)"
 22028117,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1231,7 +1233,7 @@ Q2c: 1.00 ()"
 22010606,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22017391,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1263,7 +1265,7 @@ Q2: 0 (code error)"
 22030006,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22030246,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1409,7 +1411,7 @@ Q2c: 1.00 ()"
 22029582,1.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_adventure)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1980-1999. Your answer is for 2000-2022)"
 22030230,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1685,7 +1687,7 @@ Q2c: 1.00 ()"
 22023213,2.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1980-1999)"
 22030390,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1705,7 +1707,7 @@ Q2c: 1.00 ()"
 22032658,0.95,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 0.95 ( -0.05 for 'gross_earning' dtype.)
 Q2b: 0 (incompatible DataFrame top_comedy)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 2000-2022)"
 22034095,2.6,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 0.60 ( -0.4 for partially correct DataFrame top_comedy: it has 21 rows, should be 60 rows, 21 are correct)
@@ -1767,7 +1769,7 @@ Q2c: 1.00 ()"
 21090741,0.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 0 (incompatible DataFrame movies)
 Q2b: 0 (incompatible DataFrame top_action)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1980-1999)"
 22035083,0.0,"Q22: top_adventure & top_three_genres in 1980-1999
 Q2: 0 (code error)"
 22033769,3.0,"Q22: top_adventure & top_three_genres in 1980-1999
@@ -1822,7 +1824,7 @@ Q2c: 1.00 ()"
 22036904,2.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1980-1999)"
 22035013,3.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1830,7 +1832,7 @@ Q2c: 1.00 ()"
 22033605,2.0,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
-Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 1920-1979. Your answer is for 1980-1999)"
 22024560,3.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 1.00 ()
@@ -1842,7 +1844,7 @@ Q2c: 1.00 ()"
 22026155,1.0,"Q21: top_action & top_three_genres in 2000-2022
 Q2a: 1.00 ()
 Q2b: 0 (incompatible DataFrame top_action)
-Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022)"
+Q2c: 0.00 (incorrect DataFrame top_three_genres 2000-2022. Your answer is for 1980-1999)"
 22033502,2.67,"Q23: top_comedy & top_three_genres in 1920-1979
 Q2a: 1.00 ()
 Q2b: 1.00 ()
